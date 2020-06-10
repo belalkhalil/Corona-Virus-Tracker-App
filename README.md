@@ -3,7 +3,9 @@
 A Spring Boot Application that tracks Corona Virus Cases. 
 Data gets Updated on an hourly basis.
 <br>
+<br>
 This Project aims to introduce the following Aspects:
+<br>
 <br>
 1- Server Side Rendering using thymeleaf
 <br>
