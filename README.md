@@ -1,6 +1,6 @@
 # Corona-Virus-Tracker-App
 
-A Spring Boot Application that tracks Corona Virus Cases.
+A Spring Boot Application that tracks Corona Virus Cases. 
 Data gets Updated on an hourly basis.
 
 This Project aims to introduce the following Aspects:
