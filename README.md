@@ -15,4 +15,4 @@ This Project aims to introduce the following Aspects:
 <br>
 4- parsing CSV File using commons CSV Liberary
 <br>
-5- adding Bootstrap for application.properties file for some nice styling
+5- adding Bootstrap to application.properties file for some nice styling
