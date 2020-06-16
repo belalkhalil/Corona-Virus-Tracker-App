@@ -9,10 +9,11 @@ This Project aims to introduce the following Aspects:
 <br>
 1- Server Side Rendering using thymeleaf
 <br>
-2- some featchers of Spring Boot like @Scheduled
+2- some features of Spring Boot like @Scheduled
 <br>
 3- using new Features of Java 12 HTTPClient
 <br>
 4- parsing CSV File using commons CSV Liberary
 <br>
 5- adding Bootstrap to application.properties file for some nice styling
+
