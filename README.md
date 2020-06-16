@@ -16,4 +16,6 @@ This Project aims to introduce the following Aspects:
 4- parsing CSV File using commons CSV Liberary
 <br>
 5- adding Bootstrap to application.properties file for some nice styling
+<br>
+![](Corona-Virus-Tracker.png)
 
